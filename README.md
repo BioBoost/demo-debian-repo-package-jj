@@ -136,3 +136,7 @@ sudo apt install jj
 And like Borat would say: **Great Success**:
 
 ![Installed](./img/great_success.png)
+
+## Based on
+
+This fella's guide: [https://linuxconfig.org/easy-way-to-create-a-debian-package-and-local-package-repository](https://linuxconfig.org/easy-way-to-create-a-debian-package-and-local-package-repository).
