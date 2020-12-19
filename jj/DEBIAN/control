@@ -1,0 +1,9 @@
+Package: jj
+Version: 1.0
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 17320
+Maintainer: jj.thegreat.com
+Description: Its like steam locomotive but without the steam and locomotive
