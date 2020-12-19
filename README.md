@@ -49,6 +49,8 @@ mkdir -p jj/usr/local/bin
 cp jj_source/bin/jj jj/usr/local/bin
 ```
 
+You can basically put anything in the package: libraries, man-pages, binaries, ... except for Chuck Norris. Can't package the Chuck.
+
 Time to take of and build the debian package
 
 ```bash
